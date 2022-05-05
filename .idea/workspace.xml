@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1474fcb7-e60e-4a17-b129-5303180de1ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="286YsCPnznggCqfS2GhY6VuEKmr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/photos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1474fcb7-e60e-4a17-b129-5303180de1ea" name="Default Changelist" comment="" />
+      <created>1650538710397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650538710397</updated>
+      <workItem from="1650538714429" duration="119000" />
+      <workItem from="1650538840255" duration="51000" />
+      <workItem from="1650615995920" duration="1713000" />
+      <workItem from="1650619003095" duration="4955000" />
+      <workItem from="1650623997290" duration="1519000" />
+      <workItem from="1650865456665" duration="46000" />
+      <workItem from="1650865537298" duration="64000" />
+      <workItem from="1650873879977" duration="10083000" />
+      <workItem from="1650952180788" duration="153000" />
+      <workItem from="1650961411399" duration="9564000" />
+      <workItem from="1651047637957" duration="8957000" />
+      <workItem from="1651123595588" duration="158000" />
+      <workItem from="1651124412603" duration="47000" />
+      <workItem from="1651124505399" duration="169000" />
+      <workItem from="1651125357521" duration="21000" />
+      <workItem from="1651134090295" duration="8872000" />
+      <workItem from="1651642221473" duration="20000" />
+      <workItem from="1651651823000" duration="2096000" />
+      <workItem from="1651657957377" duration="675000" />
+      <workItem from="1651659896074" duration="1109000" />
+      <workItem from="1651730946686" duration="4000" />
+      <workItem from="1651738717275" duration="2027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

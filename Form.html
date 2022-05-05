@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <style>
+        label,input,form{
+            text-align: left;
+            margin: 1px;
+            padding: 1px;
+            alignment: left;
+
+        }
+        h2{
+            text-align: center;
+            font-family:"DejaVu Math TeX Gyre";
+            font-style: italic;
+            color: cornflowerblue;
+            font-size: 42px;
+            background-color: black;
+
+        }
+        input{
+            color: brown;
+
+        }
+        label{
+            color: darkolivegreen;
+        }
+       
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login</title>
+</head>
+<body style="background-color: wheat">
+<h2>Student registration form</h2>
+<form action="">
+    <fieldset>
+        <legend>Manual Registration</legend>
+  <label for="fname">Firstname</label><br>
+  <input type="text" id="fname" placeholder="First name"><br>
+  <label for="lname">Last name</label><br>
+  <input type="text" id="lname" placeholder="Last name"><br>
+  <label for="email">Email Address</label><br>
+  <input type="email" id="email" placeholder="Email address"><br>
+  <label for="dor">Date of registration</label><br>
+  <input type="date" id="dor" placeholder="Date of registration"><br>
+    <label for="pssword">Password</label><br>
+  <input type="password" id="pssword" placeholder="Password"><br>
+    <label for="Gender"></label> Gender
+    <label for="Male">Male</label>
+    <input type="radio" id="Male" name="Gender">
+    <label for="fmale">Female</label>
+    <input type="radio" id="fmale" name="Gender">
+    <label for="others">Others</label>
+    <input type="radio" id="others" name="Gender"><br>
+    <label for="courses">Select courses</label>
+    <select name="course" id="courses">
+        <option value="Javascript">Javascipt</option>
+        <option value="Python">Python</option>
+        <option value="php">Php</option>
+
+    </select><br>
+    <label for="image">Upload</label>
+    <input type="file" id="image"><br>
+    <input type="submit" value="Register" id="ml"><br>
+    <button type="button" onclick="alert('Hello World')">CLICK ME</button>
+    </fieldset>
+
+</form>
+
+</body>
+</html>

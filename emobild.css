@@ -1,0 +1,43 @@
+.android{
+    float: left;
+    margin: 20px;
+    text-align: center;
+    text-wrap:normal ;
+
+}
+.python{
+    float: left;
+    margin:20px;
+    text-align: center;
+
+}
+.css{
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+#egypt{
+    background-color: orange;
+    border: 2px solid black;
+    color: crimson;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#southafrica{
+    background-color: crimson;
+    border: 2px solid blue;
+    color: dimgray;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#kenya{
+    background-color: olive;
+    border: 2px solid firebrick;
+    color: white;
+   text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
